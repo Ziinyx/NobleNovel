@@ -1,0 +1,4 @@
+python3
+reportlab == 3.5.56
+requests == 2.25.0
+beautifulsoup4 == 4.9.3
