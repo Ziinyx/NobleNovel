@@ -8,11 +8,8 @@ It's to create pdf out of any web scraped data
 * Don't forget to change url and id in the code MakePdfNovel.py
 
 ## Author
-* Zinyx 
+* Zinyx - Dawn of Isles(Islander)
 
 ## Acknowledgement
-* [realpython] - Will add link soon
+* [realpython](https://realpython.com)
 * **Inspiration** HardCoverNovels/Book 
-
-## Modified
-Date 14 Dec 2020 2.36AM
