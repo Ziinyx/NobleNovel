@@ -1,5 +1,4 @@
-# NobleNovel
-Date 13 Dec 2020
+# NobleNovel :wink:
 Web scrapping for creating pdf(TO read novel hehe fun project (#^.^#) ) 
 
 ## Description(Bookie)
